@@ -1,10 +1,10 @@
 # Smart-Dustbin IOT Dashboard
----
+
 **Live Website:** https://iot-mini-project-eight.vercel.app/
 This is a web-based IoT dashboard built using HTML, CSS, and JavaScript to monitor real-time sensor data from an ESP32-based Smart Waste Segregation System using the ThingSpeak API.
 
 ## 🚀 Getting Started
----
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
@@ -21,7 +21,7 @@ You can start editing the dashboard by modifying:
 The page updates automatically if you are using Live Server.
 
 ## How It Works
----
+
 This project connects to the ThingSpeak Cloud Platform to fetch real-time IoT data.
 The ESP32 device:
 - Collects distance data from an Ultrasonic Sensor
@@ -36,7 +36,7 @@ The dashboard:
 - Auto-refreshes every 5 seconds
 
 ## Tech Stack
----
+
 - HTML
 - CSS
 - JavaScript
@@ -45,7 +45,7 @@ The dashboard:
 - ESP32
 
 ## Configuration
----
+
 On the dashboard page:
 - Enter your ThingSpeak Channel ID
 - Enter your Read API Key (if the channel is private)
@@ -53,7 +53,7 @@ On the dashboard page:
 The dashboard will begin fetching live data.
 
 ## Deployment
----
+
 This project is a static website.
 You can deploy it easily on: 
 - Vercel
